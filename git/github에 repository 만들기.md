@@ -10,7 +10,7 @@
 
  1. **+** 버튼 누른 후 **New repository** 클릭
 
-    ![1.1](C:\Users\910S\Documents\My_github\ToP\git\images\1.1.PNG)
+    ![1.1](.\images\1.1.PNG)
 
 2. 필요한 구성 완성
 
@@ -19,7 +19,7 @@
    - **Public / Private** : 누구나 볼 수 있게 / 지정한 사람만 볼 수 있게
    - **Initialize this repository with a README** : README.md 파일 만들지 여부
 
-   ![1.2](C:\Users\910S\Documents\My_github\ToP\git\images\1.2.PNG)
+   ![1.2](.\images\1.2.PNG)
 
    
 
@@ -77,4 +77,4 @@
 
      
 
-![1.3](C:\Users\910S\Documents\My_github\ToP\git\images\1.3.PNG)
+![1.3](.\images\1.3.PNG)
