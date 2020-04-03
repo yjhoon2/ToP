@@ -38,6 +38,13 @@ git rm --cached -r .폴더명/
 
 - 폴더 하위의 모든 파일 삭제
 
+```
+rm -rf HMOG
+```
+
+- git clone 잘못했을 때 local repository에 없애고 다시 올바른 위치에 clone할 때
+- github에 있는 자료에는 영향 없음.
+
 
 
 #### 수정한 파일 또는 staged 상태인 파일을 삭제하는 경우
