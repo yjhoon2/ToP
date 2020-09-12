@@ -97,19 +97,27 @@
 
 ##### conda 사용
 
-1.  가상환경 생성
+1. 가상환경 생성
 
    ```
    conda create -n 가상환경 이름
    ```
 
-2.  가상환경 활성화
+   - base와 동일한 환경의 가상환경을 만들 때 (예를 들어 base를 복사해서 test라는 이름에 가상환경을 만들고 싶으면)
+
+     ```
+     conda create --name pytorch --clone base
+     ```
+
+     
+
+2. 가상환경 활성화
 
    ```
    activate 가상환경 이름
    ```
 
-   * **deactivate**로 가상환경 종료
+   * ``conda deactivate``로 가상환경 종료
 
 * 가상환경을 **.yaml** 파일로 내보내서 저장을 할 수도 있고, 이를 활용해서 새로운 가상환경을 만들 수도 있다.
 
