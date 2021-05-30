@@ -106,7 +106,7 @@
    - base와 동일한 환경의 가상환경을 만들 때 (예를 들어 base를 복사해서 test라는 이름에 가상환경을 만들고 싶으면)
 
      ```
-     conda create --name pytorch --clone base
+     conda create --name myenv --clone base
      ```
 
      
